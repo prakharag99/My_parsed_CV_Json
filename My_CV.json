@@ -1,0 +1,104 @@
+{
+  "name": "Prakhar Agrawal",
+  "contact": {
+    "email": "prakharag99@gmail.com",
+    "phone": "+91 8368456600",
+    "linkedin": "Linkedin",
+    "leetcode": "Leetcode"
+  },
+  "education": [
+    {
+      "degree": "B.Tech. in Computer Science with specialization in Artificial Intelligence",
+      "institution": "Bennett University(Times Group), Greater Noida",
+      "duration": "Sept 2021-May 2025",
+      "cgpa": 9.52
+    }
+  ],
+  "skills": {
+    "technical": [
+      "Python", "C++", "Java", "Data Structures and Algorithms", "Object-Oriented Programming",
+      "SQL", "Machine Learning", "Numpy", "Pandas", "Deep Learning", "Natural Language Processing",
+      "Generative AI", "GANs", "LLM", "OpenCV", "Linux"
+    ],
+    "frameworks": [
+      "MySQL", "React JS", "Express JS", "Node JS", "Tensorflow", "Keras", "Langchain",
+      "Streamlit", "Flask", "FastAPI"
+    ],
+    "developerTools": ["AWS", "Git", "Github", "Postman"]
+  },
+  "certifications": [
+    {
+      "name": "Natural Language Processing with Classification and Vector Spaces",
+      "verificationLink": "Verify"
+    },
+    {
+      "name": "Build Basic Generative Adversarial Networks (GANs)",
+      "verificationLink": "Verify"
+    },
+    {
+      "name": "Linear Algebra for Machine Learning and Data Science",
+      "verificationLink": "Verify"
+    },
+    {
+      "name": "Microsoft Azure Fundamentals (AZ-900)",
+      "verificationLink": "Verify"
+    },
+    {
+      "name": "Mastering Data Structures and Algorithms Using C++ (Udemy)",
+      "verificationLink": "Verify"
+    }
+  ],
+  "projects": [
+    {
+      "name": "YOUTUBE AUTO GPT",
+      "technologies": ["Langchain", "Streamlit", "OpenAI"],
+      "githubLink": "Github",
+      "description": "Created a script generator for youtube videos using OpenAI key and Langchain based on LLM. Created title generator for a youtube video."
+    },
+    {
+      "name": "LOGGER",
+      "technologies": ["Python", "Flask", "REST API", "Linked List"],
+      "githubLink": "Github",
+      "description": "Created a logger which can log messages, errors, warnings and also store the same in a circular linked list for easy retrieval and display. Utilized Flask to create the API of the same functionality."
+    },
+    {
+      "name": "WATER POTABILITY CHECK",
+      "technologies": ["Machine Learning", "Python", "Scikit Learn", "Statistics"],
+      "githubLink": "Github",
+      "description": "Performed pre-processing and feature engineering on the dataset. Trained the dataset using supervised Machine Learning algorithms with a final accuracy of 95.88% based on the Random Forest Classifier algorithm."
+    },
+    {
+      "name": "IMAGE CAPTIONING",
+      "technologies": ["Python", "Deep Learning", "CNN", "RNN", "LSTM Network", "Keras", "Tensorflow"],
+      "githubLink": "Github",
+      "description": "Developed a model which generates captions for images using a deep Convolution Neural Network (CNN) and LSTM, achieved an accuracy of 97%."
+    }
+  ],
+  "experience": [
+    {
+      "company": "EDUSHARK PVT LTD",
+      "position": "Backend Developer Intern",
+      "duration": "Aug 2023 – Oct 2023",
+      "location": "Remote",
+      "responsibilities": [
+        "Designed the database in MongoDB and created REST APIs using Typescript",
+        "Implemented the backend of the chat-section (for chat between user and school) using node.js and websockets"
+      ]
+    },
+    {
+      "company": "SUVIDHA Foundation (NGO)",
+      "position": "Machine Learning Intern",
+      "duration": "Dec 2022 – Jan 2023",
+      "location": "Remote",
+      "responsibilities": [
+        "Worked on an Abstractive Text Summarization project during the internship period.",
+        "Utilized Hugging Face Transformer model for this purpose and achieved about 95% accuracy with the model."
+      ]
+    }
+  ],
+  "achievements": [
+    "Led a team of 6 members for Smart India Hackathon 2023 securing 27th position in the college's internal hackathon",
+    "Among the top 20 teams in the Comp-a-Thon – Bennett university's hackathon",
+    "Participated in 5+ external hackathons including Microsoft Imagine Cup (2023), IBM hackathon, Flipkart Grid 5.0"
+  ]
+}
